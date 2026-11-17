@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.djdirty" name="djdirty60 Add-ons" version="1.0.0" provider-name="djdirty60">
+    <extension point="xbmc.addon.repository" name="djdirty60 Add-ons">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/djdirty60/kodi-repo/main/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/djdirty60/kodi-repo/main/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/djdirty60/kodi-repo/main/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="nl_NL">Eigen add-on-repository van djdirty60</summary>
+        <summary lang="en_GB">djdirty60's own add-on repository</summary>
+        <description lang="nl_NL">Repository voor automatische updates van de NLZiet- en Videoland-add-ons van djdirty60.</description>
+        <description lang="en_GB">Repository for automatic updates of djdirty60's NLZiet and Videoland add-ons.</description>
+        <platform>all</platform>
+        <license>CC-BY-NC-4.0</license>
+    </extension>
+</addon>
