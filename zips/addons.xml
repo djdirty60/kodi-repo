@@ -22,7 +22,7 @@
       <fanart>resources/media/background.jpg</fanart>
     </assets>
   </extension>
-</addon><addon id="plugin.video.videoland.nl" name="Videoland" version="1.10.33" provider-name="Nigel1992">
+</addon><addon id="plugin.video.videoland.nl" name="Videoland" version="1.10.34" provider-name="Nigel1992">
   <requires>
     <import addon="xbmc.python" version="3.0.1" />
     <import addon="script.module.inputstreamhelper" version="0.8.6" />
